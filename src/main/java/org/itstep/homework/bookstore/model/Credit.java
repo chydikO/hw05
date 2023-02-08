@@ -1,4 +1,4 @@
-package org.itstep.homework.bookstore;
+package org.itstep.homework.bookstore.model;
 
 /************************************************************************
  *  Абстрактный класс кредита                                           *

@@ -1,4 +1,6 @@
-package org.itstep.homework.bookstore;
+package org.itstep.homework.bookstore.interfaces;
+
+import org.itstep.homework.bookstore.interfaces.Address;
 
 /*************************************************************************
  *  Интерфейс человека							 *
