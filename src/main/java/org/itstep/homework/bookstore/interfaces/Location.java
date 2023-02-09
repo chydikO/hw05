@@ -1,4 +1,4 @@
-package org.itstep.homework.bookstore.model;
+package org.itstep.homework.bookstore.interfaces;
 
 import org.itstep.homework.bookstore.interfaces.Address;
 
@@ -40,6 +40,17 @@ public class Location implements Address {
     @Override
     public String getZipCode() {
         return zipCode;
+    }
+
+    @Override
+    public String toString() {
+        return "Location{" +
+                "streetName='" + streetName + '\'' +
+                ", streetNumber=" + streetNumber +
+                ", city='" + city + '\'' +
+                ", state='" + state + '\'' +
+                ", zipCode='" + zipCode + '\'' +
+                '}';
     }
 
     @Override

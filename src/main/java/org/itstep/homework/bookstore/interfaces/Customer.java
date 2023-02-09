@@ -1,7 +1,5 @@
 package org.itstep.homework.bookstore.interfaces;
 
-import org.itstep.homework.bookstore.model.Credit;
-
 /*************************************************************************
  *  Интерфейс покупателя	    					 *
  ************************************************************************/
