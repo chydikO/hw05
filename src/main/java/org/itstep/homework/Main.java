@@ -1,5 +1,7 @@
 package org.itstep.homework;
 
+import org.itstep.homework.bookstore.interfaces.*;
+
 /**
  * Реализовать приложение книжный магазин.
  *
@@ -23,7 +25,10 @@ package org.itstep.homework;
  */
 public class Main {
     public static void main(String[] args) {
-
+        Address address = new Location("Lenin St.", 25, "Kyiv", "UA", "00001");
+        Credit credit = new Wallet();
+        Reader reader = new Reader("Maryan", address, "qwerty", credit);
+        System.out.println();
     }
 }
 

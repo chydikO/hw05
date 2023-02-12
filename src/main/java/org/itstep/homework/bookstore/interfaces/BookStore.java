@@ -23,7 +23,7 @@ public interface BookStore extends Store {
 
     // получить все книги с указанным названием из массива книг
     // предполагается, что названия книг не совпадают
-    Book getBooks(String title);
+    Book[] getBooks(String title);
 
     // получить количество заданных книг
     int getBookAmount(String title);
