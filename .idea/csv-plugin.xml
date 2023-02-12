@@ -17,6 +17,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\src\main\java\org\itstep\homework\bookstore\Address.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\src\main\java\org\itstep\homework\bookstore\BookStore.java">
           <value>
             <Attribute>
@@ -25,6 +32,20 @@
           </value>
         </entry>
         <entry key="\src\main\java\org\itstep\homework\bookstore\Location.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\java\org\itstep\homework\bookstore\Wallet.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\java\org\itstep\homework\bookstore\Writer.java">
           <value>
             <Attribute>
               <option name="separator" value=";" />
